@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/firatenesdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firatenesdogan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/eniko23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eniko23" height="30" width="40" /></a>
-<a href="https://instagram.com/fedisserious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fedisserious" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
