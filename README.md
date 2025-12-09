@@ -55,6 +55,6 @@ I am a Computer Engineering student passionate about **backend systems, automati
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eniko23&show_icons=true&theme=radical&hide_border=true" alt="eniko23's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniko23&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eniko23&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniko23&layout=compact&theme=radical&hide_border=true" />
 </p>
