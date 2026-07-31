@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fırat Enes Doğan</h1>
+<h1 align="center">Hi, I'm Firat</h1>
 <h3 align="center">Computer Engineer | Backend Developer | Build Automation Enthusiast</h3>
 
 <p align="center">
@@ -11,15 +11,14 @@
 
 ### About Me
 
-I am a Computer Engineering student passionate about **backend systems, automation, and reverse engineering**. I love diving deep into legacy code to optimize performance and building pipelines that bridge the gap between historical data and modern technology.
+I am a Computer Engineer passionate about **backend systems, automation, and reverse engineering**. I love diving deep into legacy code to optimize performance and building pipelines that bridge the gap between historical data and modern technology.
 
 -  I’m currently working on **Reverse Engineering & Game Optimization**
 -  I have a strong background in **NLP, OCR, and IoT (Tizen/Wearables)**
--  Fun fact: I recently cracked a legacy Flash game engine to unlock 144 FPS support!
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -30,7 +29,7 @@ I am a Computer Engineering student passionate about **backend systems, automati
 
 ---
 
-###  Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -51,5 +50,3 @@ I am a Computer Engineering student passionate about **backend systems, automati
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
-
----
